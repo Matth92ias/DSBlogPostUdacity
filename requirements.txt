@@ -1,0 +1,8 @@
+###### Requirements ######
+os
+sys
+pandas
+numpy
+datetime
+sklearn
+plotnine
