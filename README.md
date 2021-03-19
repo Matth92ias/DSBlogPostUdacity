@@ -5,6 +5,9 @@ Data Scientist from Udacity. I have saved the data in the directory data. The
 datasets are also available on the following page:
 https://www.kaggle.com/airbnb/seattle/data
 
+The medium article is published on the following webpage:
+https://m-lenfers.medium.com/using-ggplot-to-analyze-airbnb-data-with-python-91f236b76a18
+
 The necessary packages are specified in the requirements.txt file. The project
 includes two notebooks which are saved in the notebooks directory.
 
@@ -24,7 +27,7 @@ prepare the data in such a way that the graphics could be created
 In the second notebook FitPriceModel I also fitted simple models. Thus after
 modeling the data it was still necessary to evaluate the results. As this is
 nothing which is supposed to be used productively the last step is not
-necessary. 
+necessary.
 
 In general the following three business questions were investigated:
 - How do prices change over the year? 
